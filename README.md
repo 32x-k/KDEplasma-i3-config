@@ -1,0 +1,1 @@
+# KDEplasma-i3-config
