@@ -202,7 +202,8 @@ for_window [title="Desktop — Plasma"] kill; floating enable; border none
 for_window [title="Arbeitsfläche — Plasma"] kill; floating enable; border none
 
 #themes
-exec_always --no-startup-id ~/autostart.sh
+exec_always --no-startup-id sleep 3.7;feh --bg-fill <themes>
+exec_always --no-startup-id sleep 3.9;feh --bg-fill <themes>
 # gaps each window
 gaps outer 1
 gaps inner 13

@@ -1,4 +1,4 @@
- [Desktop Entry]
+[Desktop Entry]
 Type=XSession
 Exec=env KDEWM=/usr/bin/i3 /usr/bin/startplasma-x11
 DesktopNames=KDE
